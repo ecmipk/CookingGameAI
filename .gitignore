@@ -1,0 +1,12 @@
+# Unity Gereksiz Dosyalar
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+.vscode/
+*.csproj
+*.sln
